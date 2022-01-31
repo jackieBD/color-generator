@@ -65,3 +65,15 @@ h1{
   border: 2px black solid;
   border-radius: 15px;
 }
+
+
+@media (max-width: 550px) {
+  .select-div{
+    padding: 15px;
+  }
+
+  .content{
+    height: 75%
+
+  }
+}
